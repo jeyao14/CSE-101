@@ -1,0 +1,17 @@
+Jeffrey Yao
+jeyao
+CMPS 101, 6/7/2019
+README
+
+This is the README file for pa5.
+
+This program implements DFS and a Graph ADT to find strongly connected components of graphs.
+
+Graph.c
+Graph.h
+FindComponents.c
+List.c
+List.h
+GraphTest.c
+Makefile
+README
